@@ -1,0 +1,7 @@
+C:\Users\sbmpc.student\source\repos\FileCopy3\FileCopy3\bin\Debug\FileCopy3.exe.config
+C:\Users\sbmpc.student\source\repos\FileCopy3\FileCopy3\bin\Debug\FileCopy3.exe
+C:\Users\sbmpc.student\source\repos\FileCopy3\FileCopy3\bin\Debug\FileCopy3.pdb
+C:\Users\sbmpc.student\source\repos\FileCopy3\FileCopy3\obj\Debug\FileCopy3.csproj.AssemblyReference.cache
+C:\Users\sbmpc.student\source\repos\FileCopy3\FileCopy3\obj\Debug\FileCopy3.csproj.CoreCompileInputs.cache
+C:\Users\sbmpc.student\source\repos\FileCopy3\FileCopy3\obj\Debug\FileCopy3.exe
+C:\Users\sbmpc.student\source\repos\FileCopy3\FileCopy3\obj\Debug\FileCopy3.pdb

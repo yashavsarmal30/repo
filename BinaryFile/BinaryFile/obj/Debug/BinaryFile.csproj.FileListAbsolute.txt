@@ -1,0 +1,7 @@
+C:\Users\sbmpc.student\source\repos\BinaryFile\BinaryFile\bin\Debug\BinaryFile.exe.config
+C:\Users\sbmpc.student\source\repos\BinaryFile\BinaryFile\bin\Debug\BinaryFile.exe
+C:\Users\sbmpc.student\source\repos\BinaryFile\BinaryFile\bin\Debug\BinaryFile.pdb
+C:\Users\sbmpc.student\source\repos\BinaryFile\BinaryFile\obj\Debug\BinaryFile.csproj.AssemblyReference.cache
+C:\Users\sbmpc.student\source\repos\BinaryFile\BinaryFile\obj\Debug\BinaryFile.csproj.CoreCompileInputs.cache
+C:\Users\sbmpc.student\source\repos\BinaryFile\BinaryFile\obj\Debug\BinaryFile.exe
+C:\Users\sbmpc.student\source\repos\BinaryFile\BinaryFile\obj\Debug\BinaryFile.pdb

@@ -1,0 +1,7 @@
+C:\Users\sbmpc.student\source\repos\FileHandling\FileHandling\bin\Debug\FileHandling.exe.config
+C:\Users\sbmpc.student\source\repos\FileHandling\FileHandling\bin\Debug\FileHandling.exe
+C:\Users\sbmpc.student\source\repos\FileHandling\FileHandling\bin\Debug\FileHandling.pdb
+C:\Users\sbmpc.student\source\repos\FileHandling\FileHandling\obj\Debug\FileHandling.csproj.AssemblyReference.cache
+C:\Users\sbmpc.student\source\repos\FileHandling\FileHandling\obj\Debug\FileHandling.csproj.CoreCompileInputs.cache
+C:\Users\sbmpc.student\source\repos\FileHandling\FileHandling\obj\Debug\FileHandling.exe
+C:\Users\sbmpc.student\source\repos\FileHandling\FileHandling\obj\Debug\FileHandling.pdb

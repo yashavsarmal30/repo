@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormAuthentication", "FormAuthentication\FormAuthentication.csproj", "{979DD997-48EB-4E2C-9D94-E82CF16FD0DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{979DD997-48EB-4E2C-9D94-E82CF16FD0DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{979DD997-48EB-4E2C-9D94-E82CF16FD0DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{979DD997-48EB-4E2C-9D94-E82CF16FD0DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{979DD997-48EB-4E2C-9D94-E82CF16FD0DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6880DF9-09A2-4574-A1C7-B2E0A1425EC4}
+	EndGlobalSection
+EndGlobal

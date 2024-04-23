@@ -1,0 +1,16 @@
+C:\Users\sbmpc.student\source\repos\AddForm\AddForm\bin\Debug\net8.0-windows\AddForm.exe
+C:\Users\sbmpc.student\source\repos\AddForm\AddForm\bin\Debug\net8.0-windows\AddForm.deps.json
+C:\Users\sbmpc.student\source\repos\AddForm\AddForm\bin\Debug\net8.0-windows\AddForm.runtimeconfig.json
+C:\Users\sbmpc.student\source\repos\AddForm\AddForm\bin\Debug\net8.0-windows\AddForm.dll
+C:\Users\sbmpc.student\source\repos\AddForm\AddForm\bin\Debug\net8.0-windows\AddForm.pdb
+C:\Users\sbmpc.student\source\repos\AddForm\AddForm\obj\Debug\net8.0-windows\AddForm.Form1.resources
+C:\Users\sbmpc.student\source\repos\AddForm\AddForm\obj\Debug\net8.0-windows\AddForm.csproj.GenerateResource.cache
+C:\Users\sbmpc.student\source\repos\AddForm\AddForm\obj\Debug\net8.0-windows\AddForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sbmpc.student\source\repos\AddForm\AddForm\obj\Debug\net8.0-windows\AddForm.AssemblyInfoInputs.cache
+C:\Users\sbmpc.student\source\repos\AddForm\AddForm\obj\Debug\net8.0-windows\AddForm.AssemblyInfo.cs
+C:\Users\sbmpc.student\source\repos\AddForm\AddForm\obj\Debug\net8.0-windows\AddForm.csproj.CoreCompileInputs.cache
+C:\Users\sbmpc.student\source\repos\AddForm\AddForm\obj\Debug\net8.0-windows\AddForm.dll
+C:\Users\sbmpc.student\source\repos\AddForm\AddForm\obj\Debug\net8.0-windows\refint\AddForm.dll
+C:\Users\sbmpc.student\source\repos\AddForm\AddForm\obj\Debug\net8.0-windows\AddForm.pdb
+C:\Users\sbmpc.student\source\repos\AddForm\AddForm\obj\Debug\net8.0-windows\AddForm.genruntimeconfig.cache
+C:\Users\sbmpc.student\source\repos\AddForm\AddForm\obj\Debug\net8.0-windows\ref\AddForm.dll

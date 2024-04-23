@@ -1,0 +1,7 @@
+C:\Users\sbmpc.student\source\repos\AppendFile\AppendFile\bin\Debug\AppendFile.exe.config
+C:\Users\sbmpc.student\source\repos\AppendFile\AppendFile\bin\Debug\AppendFile.exe
+C:\Users\sbmpc.student\source\repos\AppendFile\AppendFile\bin\Debug\AppendFile.pdb
+C:\Users\sbmpc.student\source\repos\AppendFile\AppendFile\obj\Debug\AppendFile.csproj.AssemblyReference.cache
+C:\Users\sbmpc.student\source\repos\AppendFile\AppendFile\obj\Debug\AppendFile.csproj.CoreCompileInputs.cache
+C:\Users\sbmpc.student\source\repos\AppendFile\AppendFile\obj\Debug\AppendFile.exe
+C:\Users\sbmpc.student\source\repos\AppendFile\AppendFile\obj\Debug\AppendFile.pdb

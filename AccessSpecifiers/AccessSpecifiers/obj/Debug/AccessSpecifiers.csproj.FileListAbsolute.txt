@@ -1,0 +1,7 @@
+C:\Users\sbmpc.student\source\repos\AccessSpecifiers\AccessSpecifiers\bin\Debug\AccessSpecifiers.exe.config
+C:\Users\sbmpc.student\source\repos\AccessSpecifiers\AccessSpecifiers\bin\Debug\AccessSpecifiers.exe
+C:\Users\sbmpc.student\source\repos\AccessSpecifiers\AccessSpecifiers\bin\Debug\AccessSpecifiers.pdb
+C:\Users\sbmpc.student\source\repos\AccessSpecifiers\AccessSpecifiers\obj\Debug\AccessSpecifiers.csproj.AssemblyReference.cache
+C:\Users\sbmpc.student\source\repos\AccessSpecifiers\AccessSpecifiers\obj\Debug\AccessSpecifiers.csproj.CoreCompileInputs.cache
+C:\Users\sbmpc.student\source\repos\AccessSpecifiers\AccessSpecifiers\obj\Debug\AccessSpecifiers.exe
+C:\Users\sbmpc.student\source\repos\AccessSpecifiers\AccessSpecifiers\obj\Debug\AccessSpecifiers.pdb

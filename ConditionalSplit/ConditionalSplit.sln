@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "ConditionalSplit", "ConditionalSplit\ConditionalSplit.dtproj", "{FC90E222-A9FF-4BE0-AC70-BF53AF918273}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC90E222-A9FF-4BE0-AC70-BF53AF918273}.Development|Default.ActiveCfg = Development
+		{FC90E222-A9FF-4BE0-AC70-BF53AF918273}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {542F63C9-6F94-47C4-8EF5-F56FBD0BD1AB}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+C:\Users\sbmpc.student\source\repos\FileHandlingApp\FileHandlingApp\bin\Debug\net8.0-windows\FileHandlingApp.exe
+C:\Users\sbmpc.student\source\repos\FileHandlingApp\FileHandlingApp\bin\Debug\net8.0-windows\FileHandlingApp.deps.json
+C:\Users\sbmpc.student\source\repos\FileHandlingApp\FileHandlingApp\bin\Debug\net8.0-windows\FileHandlingApp.runtimeconfig.json
+C:\Users\sbmpc.student\source\repos\FileHandlingApp\FileHandlingApp\bin\Debug\net8.0-windows\FileHandlingApp.dll
+C:\Users\sbmpc.student\source\repos\FileHandlingApp\FileHandlingApp\bin\Debug\net8.0-windows\FileHandlingApp.pdb
+C:\Users\sbmpc.student\source\repos\FileHandlingApp\FileHandlingApp\obj\Debug\net8.0-windows\FileHandlingApp.Form1.resources
+C:\Users\sbmpc.student\source\repos\FileHandlingApp\FileHandlingApp\obj\Debug\net8.0-windows\FileHandlingApp.csproj.GenerateResource.cache
+C:\Users\sbmpc.student\source\repos\FileHandlingApp\FileHandlingApp\obj\Debug\net8.0-windows\FileHandlingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sbmpc.student\source\repos\FileHandlingApp\FileHandlingApp\obj\Debug\net8.0-windows\FileHandlingApp.AssemblyInfoInputs.cache
+C:\Users\sbmpc.student\source\repos\FileHandlingApp\FileHandlingApp\obj\Debug\net8.0-windows\FileHandlingApp.AssemblyInfo.cs
+C:\Users\sbmpc.student\source\repos\FileHandlingApp\FileHandlingApp\obj\Debug\net8.0-windows\FileHandlingApp.csproj.CoreCompileInputs.cache
+C:\Users\sbmpc.student\source\repos\FileHandlingApp\FileHandlingApp\obj\Debug\net8.0-windows\FileHandlingApp.dll
+C:\Users\sbmpc.student\source\repos\FileHandlingApp\FileHandlingApp\obj\Debug\net8.0-windows\refint\FileHandlingApp.dll
+C:\Users\sbmpc.student\source\repos\FileHandlingApp\FileHandlingApp\obj\Debug\net8.0-windows\FileHandlingApp.pdb
+C:\Users\sbmpc.student\source\repos\FileHandlingApp\FileHandlingApp\obj\Debug\net8.0-windows\FileHandlingApp.genruntimeconfig.cache
+C:\Users\sbmpc.student\source\repos\FileHandlingApp\FileHandlingApp\obj\Debug\net8.0-windows\ref\FileHandlingApp.dll

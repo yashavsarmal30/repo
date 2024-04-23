@@ -1,0 +1,2 @@
+C:\Users\sbmpc.student\source\repos\Factorial\Factorial2\obj\Debug\Factorial2.csproj.AssemblyReference.cache
+C:\Users\sbmpc.student\source\repos\Factorial\Factorial2\obj\Debug\Factorial2.csproj.CoreCompileInputs.cache
